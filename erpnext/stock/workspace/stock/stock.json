@@ -6,6 +6,7 @@
    "chart_name": "Warehouse wise Stock Value"
   }
  ],
+ "charts_label": "",
  "creation": "2020-03-02 15:43:10.096528",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
@@ -691,14 +692,14 @@
    "type": "Link"
   }
  ],
- "modified": "2021-05-13 13:10:24.914983",
+ "modified": "2022-06-02 16:12:04.913089",
  "modified_by": "Administrator",
  "module": "Stock",
  "name": "Stock",
- "onboarding": "Stock",
+ "onboarding": "",
  "owner": "Administrator",
  "pin_to_bottom": 0,
- "pin_to_top": 0,
+ "pin_to_top": 1,
  "shortcuts": [
   {
    "color": "Green",

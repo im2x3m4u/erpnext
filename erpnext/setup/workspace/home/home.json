@@ -119,7 +119,7 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
+   "hidden": 1,
    "is_query_report": 0,
    "label": "Human Resources",
    "onboard": 0,
@@ -156,7 +156,7 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
+   "hidden": 1,
    "is_query_report": 0,
    "label": "CRM",
    "onboard": 0,
@@ -193,7 +193,7 @@
    "type": "Link"
   },
   {
-   "hidden": 0,
+   "hidden": 1,
    "is_query_report": 0,
    "label": "Data Import and Settings",
    "onboard": 0,
@@ -250,8 +250,8 @@
    "type": "Link"
   }
  ],
- "modified": "2021-04-19 15:48:44.089927",
- "modified_by": "Administrator",
+ "modified": "2022-06-07 13:26:03.733759",
+ "modified_by": "adi.setyono@gmail.com",
  "module": "Setup",
  "name": "Home",
  "owner": "Administrator",
@@ -279,9 +279,16 @@
    "type": "DocType"
   },
   {
-   "label": "Leaderboard",
-   "link_to": "leaderboard",
-   "type": "Page"
+   "doc_view": "",
+   "label": "Permintaan Barang",
+   "link_to": "Material Request",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Purchase Order",
+   "link_to": "Purchase Order",
+   "type": "DocType"
   }
  ]
 }

@@ -816,6 +816,7 @@
    "depends_on": "is_stock_item",
    "fieldname": "manufacturing",
    "fieldtype": "Section Break",
+   "hidden": 1,
    "label": "Manufacturing",
    "oldfieldtype": "Section Break",
    "options": "fa fa-cogs"
@@ -842,7 +843,8 @@
   },
   {
    "fieldname": "column_break_74",
-   "fieldtype": "Column Break"
+   "fieldtype": "Column Break",
+   "hidden": 1
   },
   {
    "fieldname": "customer_code",
@@ -865,6 +867,7 @@
    "depends_on": "eval:(!doc.is_item_from_hub && !doc.is_fixed_asset)",
    "fieldname": "hub_publishing_sb",
    "fieldtype": "Section Break",
+   "hidden": 1,
    "label": "Hub Publishing Details"
   },
   {
@@ -955,7 +958,7 @@
  "image_field": "image",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-04-28 04:52:10.272256",
+ "modified": "2022-06-07 14:51:45.723850",
  "modified_by": "Administrator",
  "module": "Stock",
  "name": "Item",

@@ -1,5 +1,5 @@
 {
- "category": "Modules",
+ "category": "Administration",
  "charts": [],
  "creation": "2020-09-10 12:21:22.335307",
  "developer_mode_only": 0,
@@ -9,6 +9,7 @@
  "extends_another_page": 0,
  "hide_custom": 0,
  "idx": 0,
+ "is_default": 0,
  "is_standard": 1,
  "label": "Utilities",
  "links": [
@@ -40,7 +41,7 @@
    "type": "Link"
   }
  ],
- "modified": "2020-12-01 13:38:36.711884",
+ "modified": "2022-06-01 21:13:40.331992",
  "modified_by": "Administrator",
  "module": "Utilities",
  "name": "Utilities",
