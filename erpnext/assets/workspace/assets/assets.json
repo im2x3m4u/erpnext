@@ -11,10 +11,11 @@
  "disable_user_customization": 0,
  "docstatus": 0,
  "doctype": "Workspace",
- "extends_another_page": 0,
+ "extends_another_page": 1,
  "hide_custom": 0,
  "icon": "assets",
  "idx": 0,
+ "is_default": 0,
  "is_standard": 1,
  "label": "Assets",
  "links": [
@@ -160,7 +161,7 @@
    "type": "Link"
   }
  ],
- "modified": "2020-12-01 13:38:37.977119",
+ "modified": "2022-06-28 14:52:25.622962",
  "modified_by": "Administrator",
  "module": "Assets",
  "name": "Assets",
@@ -168,6 +169,7 @@
  "owner": "Administrator",
  "pin_to_bottom": 0,
  "pin_to_top": 0,
+ "restrict_to_domain": "Services",
  "shortcuts": [
   {
    "label": "Asset",

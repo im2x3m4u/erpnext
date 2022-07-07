@@ -11,7 +11,7 @@
  "disable_user_customization": 0,
  "docstatus": 0,
  "doctype": "Workspace",
- "extends_another_page": 0,
+ "extends_another_page": 1,
  "hide_custom": 0,
  "icon": "project",
  "idx": 0,
@@ -181,13 +181,14 @@
    "type": "Link"
   }
  ],
- "modified": "2021-04-25 16:27:16.548780",
+ "modified": "2022-06-28 14:50:02.394220",
  "modified_by": "Administrator",
  "module": "Projects",
  "name": "Projects",
  "owner": "Administrator",
  "pin_to_bottom": 0,
  "pin_to_top": 0,
+ "restrict_to_domain": "Services",
  "shortcuts": [
   {
    "color": "Blue",
